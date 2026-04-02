@@ -1,0 +1,45 @@
+## Converteste din baza 10 in baza 2 si baza 16.
+
+/*
+  Tine minte cand ai un nr in baza 2 deobice se pune inaintea lui '0b' ca sa
+  fie clar ca numarul e in baza 2. La fel si cu baza 16 deobicei se pune inaintea
+  lui '0x'.
+
+  De exemplu:
+  0b0011 = 3
+  0xF = 15
+*/
+
+Numerele pe care trb sa le convertesti sunt:
+1, 2, 4, 8, 16, 32, 64, 128, 256
+15, 23, 78, 96, 278
+
+## Converteste din baza 2 in baza 10
+
+0b0101011 = 
+0b0111111 = 
+0b000000000000000000000000000001 =
+0b11111111 = 
+
+## Converteste din baza 16 in baza 10
+ 
+0x0 = 
+0x1 = 
+0x2 = 
+0x3 = 
+0x4 = 
+0x5 = 
+0x6 = 
+0x7 = 
+0x8 = 
+0x9 = 
+0xA = 
+0xB = 
+0xC = 
+0xD = 
+0xE = 
+0xF = 
+0xFF = 
+0xAF =
+0x7F = 
+0xBB = 

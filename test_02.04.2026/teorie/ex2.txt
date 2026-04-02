@@ -1,0 +1,27 @@
+## Ce valoari for fi afisate?
+
+#include <iostream>
+
+using namespace std;
+
+void test1(int* ptr) {
+  *ptr += 10;
+  cout << *ptr << '\n';
+  cout << ptr << '\n\;
+}
+
+void test2(int ptr) {
+  ptr += 10;
+  cout << *ptr << '\n';
+  cout << ptr << '\n\;
+}
+
+int main() {
+  int x = 10; //&x = 0x43245A
+  test2(x);
+  test1(&x);
+  test2(x);
+  return 0;
+}
+
+Scrie sub ce se va afisa pe terminal!
